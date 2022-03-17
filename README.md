@@ -1,7 +1,7 @@
 # calender
 
 ```
-## 访飞书日历组件 
+## 仿飞书日历组件 
 ```
 ## Project setup
 ```
